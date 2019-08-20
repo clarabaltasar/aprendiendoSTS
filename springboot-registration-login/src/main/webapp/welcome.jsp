@@ -28,7 +28,7 @@
                 <li type="none"><a href="#">Servicio B</a></li>
                 <li type="none"><a href="#">Servicio C</a></li>
             </ul></li>
-            <li type="none"><a href="#">Contacto</a></li>
+            <li type="none"><a href="contacto.jsp">Contacto</a></li>
         </ul>
      </nav>
   </div>
